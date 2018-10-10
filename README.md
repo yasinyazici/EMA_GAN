@@ -4,4 +4,4 @@ This is the original implementation of "The Unusual Effectiveness of Averaging i
 
 ```python train.py --dataset='cifar10' --objective='gan' --n_dis=1 --model='base' --gpu=0 &```
 
-```[I'm an inline-style link](https://www.google.com)```
+[I'm an inline-style link](https://www.google.com)
