@@ -4,5 +4,6 @@ This is the original implementation of [The Unusual Effectiveness of Averaging i
 
 ```python train.py --dataset='cifar10' --objective='gan' --n_dis=1 --model='base' --gpu=0 &```
 
-![Effect of averagin on CelebA](/figures/ema_fig6.png)
+![](/figures/ema_fig6.png)
+![](/figures/ema_fig7.png)
 
