@@ -28,3 +28,6 @@ url={https://openreview.net/forum?id=SJgw_sRqFQ},
 
 You might need to change folder paths etc.
 
+### Credit
+Part of the code has taken from https://github.com/pfnet-research/chainer-gan-lib. 
+
